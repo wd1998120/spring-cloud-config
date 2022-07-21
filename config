@@ -1,2 +1,3 @@
 info:
- one: main-info version-1
+ one: dev-info version-1
+ anotherinfo: something
